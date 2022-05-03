@@ -10,7 +10,7 @@ Data Scientist | ML Engineer
 * 🌍  I'm based in Noida
 * 🔭  I’m currently working on Machine Learning, Data Mining, Data visualization and Data Analytics
 * ✉️  You can contact me at [itsvishal43@gmail.com](mailto:itsvishal43@gmail.com)
-* 🧠  I'm learning Neural Networks, Deep Learning
+* 🧠  I'm learning Neural Networks, Deep Learning, Tensorflow, Computer Vision
 
 ### Skills
 
