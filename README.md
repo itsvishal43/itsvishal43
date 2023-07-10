@@ -2,12 +2,12 @@
 Hi 👋 My name is Vishal Anand
 =============================
 
-Data Scientist | ML Engineer
+Data Scientist | Python/ML Engineer
 ----------------------------
 
 • Data Scientist with problem-solving skills and value-driven through data using machine learning techniques. • Experienced in Machine Learning, Natural language Processing, and Python. • Worked in various Machine Learning techniques such as K-means Clustering, Named Entity Recognition using spaCy, experienced in building predictive models using Logistic regression, Random forest, Decision trees, boost.
 
-* 🌍  I'm based in Noida
+* 🌍  I'm based in Bengaluru
 * 🔭  I’m currently working on Machine Learning, Data Mining, Data visualization and Data Analytics
 * ✉️  You can contact me at [itsvishal43@gmail.com](mailto:itsvishal43@gmail.com)
 * 🧠  I'm learning Neural Networks, Deep Learning, Tensorflow, Computer Vision
